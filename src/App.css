@@ -1,6 +1,6 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   height: 40vmin;
@@ -89,4 +89,16 @@
 .country-name,
 .country-region {
   line-height: 1;
+}
+.right {
+  float: right;
+}
+
+.secondaryBlack {
+  background-color: black !important;
+  margin-left: 5px;
+}
+
+.m-l-6 {
+  margin-left:6px !important;
 }

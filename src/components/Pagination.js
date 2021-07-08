@@ -36,6 +36,7 @@ class Pagination extends Component {
   componentDidMount() {
     this.gotoPage(1);
   }
+ 
 // =======================  CODE FOR PARTICULAR PAGE JUMP=====================================
   gotoPage = page => {
     const { onPageChanged = f => f } = this.props;
