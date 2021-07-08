@@ -36,3 +36,57 @@
     transform: rotate(360deg);
   }
 }
+.attainU-bg {
+  background-color: rgb(253, 253, 253);
+}
+.attainU-text {
+  color: rgb(18, 60,105) !important;
+  font-size: 1.5rem !important;
+    margin-left: 0.5rem !important;
+    vertical-align: middle;
+}
+.w-18-rem {
+  width:18rem
+}
+.w-100 {
+  width:100%;
+}
+.noWhiteSpace {
+  white-space: nowrap;
+}
+.list-style-none {
+  list-style-type: none;
+}
+.m-b-6 {
+  margin-bottom: 6% !important;
+}
+.m-t-6 {
+  margin-top: 6% !important;
+}
+
+
+/*  */
+.current-page {
+  font-size: 1.5rem;
+  vertical-align: middle;
+}
+
+.user-card-container {
+  height: 60px;
+  position: relative;
+  overflow: hidden;
+}
+
+.country-name {
+  font-size: 0.9rem;
+}
+
+.country-region {
+  font-size: 0.7rem;
+}
+
+.country-page,
+.country-name,
+.country-region {
+  line-height: 1;
+}
